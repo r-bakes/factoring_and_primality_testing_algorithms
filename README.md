@@ -1,1 +1,1 @@
-# factoring_and_primality_testing_algorithms
+# Factoring and Primality Testing | Quadratic Sieve Implementation
